@@ -1,0 +1,10 @@
+{
+  "name": "flyrank-auth-api-tests",
+  "version": "1.0.0",
+  "description": "Node.js smoke tests for the FastAPI auth API",
+  "private": true,
+  "scripts": {
+    "test": "node test/smoke.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
